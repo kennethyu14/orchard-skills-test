@@ -120,3 +120,5 @@ To run this project, you will need to add the following environment variables to
 `WP_HOME`
 
 Note that when using DDEV, all db details are using **db** and our current WP_HOME is set to https://orchard.ddev.site
+
+Database file is in the repository named **database.sql**
