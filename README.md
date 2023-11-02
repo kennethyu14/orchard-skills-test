@@ -122,3 +122,9 @@ To run this project, you will need to add the following environment variables to
 Note that when using DDEV, all db details are using **db** and our current WP_HOME is set to https://orchard.ddev.site
 
 Database file is in the repository named **database.sql**
+
+## Files
+
+Plugins can be found in **web/app/plugins**
+
+orchard is the theme which is a child theme from Twenty Twenty and can be found under **web/app/themes**
