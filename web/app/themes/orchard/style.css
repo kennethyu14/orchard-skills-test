@@ -1,0 +1,29 @@
+/*
+Theme Name:   Orchard
+Description:  Twenty Twenty Child Theme
+Author:       Kenneth Yu
+Template:     twentytwenty
+Version:      1.0.0
+Text Domain:  orchard
+*/
+
+.banner {
+    height: 600px;
+    background-position: center;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.banner h1 {
+    margin: 0;
+}
+
+.banner.grass-bg {
+    background-image: url('assets/images/grass.jpg');
+}
+
+.banner.mountains-bg {
+    background-image: url('assets/images/mountains.jpg');
+}
